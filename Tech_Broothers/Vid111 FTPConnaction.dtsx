@@ -11,8 +11,8 @@
   DTS:LocaleID="1049"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="5"
-  DTS:VersionGUID="{6F3885EF-4B9C-40D3-9703-5A7272970E1D}">
+  DTS:VersionBuild="6"
+  DTS:VersionGUID="{623F517B-15DA-42BB-84DB-CFFB893AE371}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -36,7 +36,7 @@
             <DTS:Property
               DTS:Name="ServerPassword"
               Sensitive="1"
-              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkCRWfcwuLk6Iy3XCKASgSgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD1F1H8/U+GuEbNy/BZryNQfMWqE5gitClg1bcKnX9C+wAAAAAOgAAAAAIAACAAAACX0Ob9/5epkSTE+tAkbeBgw06Ztqyutbp/eft7mUy3oRAAAAB+iLWExS5edzFdAPJ7yBN8QAAAAGSRF5KK+CZS2+1q4THi8MR0REFSi6HIg54QJ3H7WUZswJLde9dTT6ggiRPgga3cTUrluqvOaFXcmRFhdlcTIQU</DTS:Property>
+              Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAkCRWfcwuLk6Iy3XCKASgSgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAfL8SZ+T3LIs38GSS3uYej4xOLbHLEklUadsTrDg6/fAAAAAAOgAAAAAIAACAAAABDSM5FBL2+hwbPdYFWRViMIz9M2gUaw+Adz+/9pmraUxAAAABKu6BSk702Ddll+SDn0vglQAAAAON1MFBpqbHfXSYMoYd99sFvdBobw38EhEZ/dRadRuL0hNdmdpsjFmimEd49yOAnWp2WRfKVVhmsekRQ/S5+WlU</DTS:Property>
           </DTS:FtpConnection>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
@@ -150,7 +150,7 @@
         <NodeLayout
           Size="127,42"
           Id="Package\FTP Task"
-          TopLeft="111,33" />
+          TopLeft="85,20" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
