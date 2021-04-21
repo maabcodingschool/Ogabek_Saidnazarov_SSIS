@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>Tech brothers More68</Name>
+    <LastWriteTime>2021-04-15T10:03:38.2512498Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>rowSamplingInSSIS vid 68.dtsx</Name>
+      <LastWriteTime>2021-04-12T05:57:39.7328041Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>PercentageSamplingtrans vid 69.dtsx</Name>
+      <LastWriteTime>2021-04-12T06:06:01.5105196Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FilterRowsWithNullValues vid 70.dtsx</Name>
+      <LastWriteTime>2021-04-12T06:14:17.4575179Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FilterBlankValues vid 71.dtsx</Name>
+      <LastWriteTime>2021-04-12T06:20:43.8922425Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>RedirectOrRemoveDuplicates vid72.dtsx</Name>
+      <LastWriteTime>2021-04-12T06:27:45.0729118Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ConditionalSplit vid 73.dtsx</Name>
+      <LastWriteTime>2021-04-12T08:30:29.2749046Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>LoadUniqueRowsFromFile vid 74.dtsx</Name>
+      <LastWriteTime>2021-04-12T08:48:57.8724808Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ConditionalSplit vid 75.dtsx</Name>
+      <LastWriteTime>2021-04-12T08:39:24.3052205Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>MergeStatment vid76.dtsx</Name>
+      <LastWriteTime>2021-04-12T08:50:11.5433711Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ConvertMonthNumberToMonthName vid 77.dtsx</Name>
+      <LastWriteTime>2021-04-12T11:25:33.8457538Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>LaoduniqueDataFromExcel vid 78.dtsx</Name>
+      <LastWriteTime>2021-04-12T15:35:54.3291979Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ConditionalSplit vid 79.dtsx</Name>
+      <LastWriteTime>2021-04-12T16:09:16.1466077Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>CaseConditionsInSSIS vid 80.dtsx</Name>
+      <LastWriteTime>2021-04-12T19:27:42.4322269Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Multicast vid 81.dtsx</Name>
+      <LastWriteTime>2021-04-12T17:37:11.9534528Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ExportColumn vid 82.dtsx</Name>
+      <LastWriteTime>2021-04-13T14:02:36.5113129Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Importcolumntransformation vid 83.dtsx</Name>
+      <LastWriteTime>2021-04-12T19:27:35.8492248Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>SendMailTask vid 84_85.dtsx</Name>
+      <LastWriteTime>2021-04-13T14:02:36.3912039Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Dbmail TaskInSQl Bek`s vid.dtsx</Name>
+      <LastWriteTime>2021-04-13T16:00:57.1840499Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FTPConnation.dtsx</Name>
+      <LastWriteTime>2021-04-14T09:32:45.9497698Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DownloadFileFromFTPServer vid 95.dtsx</Name>
+      <LastWriteTime>2021-04-14T09:41:48.0790484Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>MultipleFesToFTP vid 96.dtsx</Name>
+      <LastWriteTime>2021-04-14T10:08:37.0138247Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>LoadAllFilesFromFTP vid 97.dtsx</Name>
+      <LastWriteTime>2021-04-14T10:24:48.2871415Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FilterWithWildCardsInFTP vid 98.dtsx</Name>
+      <LastWriteTime>2021-04-14T10:37:26.3273485Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DeleteFilesFromFTP vid99.dtsx</Name>
+      <LastWriteTime>2021-04-14T10:47:12.7653813Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>GetCurrentDateFiles vid 100.dtsx</Name>
+      <LastWriteTime>2021-04-14T11:03:40.0314344Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>CreateForeachDayFolderFTP vid 101.dtsx</Name>
+      <LastWriteTime>2021-04-14T11:42:13.8645719Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>GetFileNamesFromFTP vid102.dtsx</Name>
+      <LastWriteTime>2021-04-14T14:29:24.7403475Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DeleteFolderFTP vid 1-04.dtsx</Name>
+      <LastWriteTime>2021-04-14T14:12:06.7455563Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DownloadDeleteFile vid105.dtsx</Name>
+      <LastWriteTime>2021-04-14T15:23:17.1439684Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>SYNCLocalFolder vid 106.dtsx</Name>
+      <LastWriteTime>2021-04-14T16:37:26.6520946Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>SyncFTPFolderToLocalFolder vid 107.dtsx</Name>
+      <LastWriteTime>2021-04-15T05:50:23.8518671Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DownloadAndRenameFTP vid 108.dtsx</Name>
+      <LastWriteTime>2021-04-15T09:00:31.1774355Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DownloadAndMoveArchive vid 109.dtsx</Name>
+      <LastWriteTime>2021-04-15T09:32:34.4656886Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>CreateDirectoryAndDownloadFiles vid 110.dtsx</Name>
+      <LastWriteTime>2021-04-15T10:03:38.187252Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
