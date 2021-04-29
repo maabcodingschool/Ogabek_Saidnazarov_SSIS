@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>TechBrothers_Vid150More</Name>
+    <LastWriteTime>2021-04-26T17:35:04.3179567Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>Vid151 DataViewer.dtsx</Name>
+      <LastWriteTime>2021-04-20T10:59:00.2216345Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid152.dtsx</Name>
+      <LastWriteTime>2021-04-20T06:21:12.753351Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid153 BreakPoints.dtsx</Name>
+      <LastWriteTime>2021-04-20T10:58:53.6359011Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid154 Warnings.dtsx</Name>
+      <LastWriteTime>2021-04-20T13:17:26.4189722Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid155 Annotations.dtsx</Name>
+      <LastWriteTime>2021-04-20T13:32:14.4567279Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid158 loadFromExcelColumnDecrease.dtsx</Name>
+      <LastWriteTime>2021-04-21T19:32:19.2409488Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid159 LoadDynamiclyFromExcel.dtsx</Name>
+      <LastWriteTime>2021-04-22T05:08:13.1329723Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid160 GetExcelSheetROwInformation.dtsx</Name>
+      <LastWriteTime>2021-04-22T06:07:55.8524679Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid161 CreateTableForEachsheet.dtsx</Name>
+      <LastWriteTime>2021-04-22T09:41:31.5220588Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>VId162CreateTablePerFile.dtsx</Name>
+      <LastWriteTime>2021-04-23T18:58:53.4870004Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid163 CreateCSVforPerExcel.dtsx</Name>
+      <LastWriteTime>2021-04-24T05:45:26.1987736Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid164 CreateCSVforEachSHeet.dtsx</Name>
+      <LastWriteTime>2021-04-24T09:04:13.2328572Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>VId165 LoadDataTOOLEDBwithsheetNameAndFilename.dtsx</Name>
+      <LastWriteTime>2021-04-24T06:46:42.9366375Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid166 ImportDataThoughSheetNamePattern.dtsx</Name>
+      <LastWriteTime>2021-04-24T09:36:27.5194245Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid167 LoadSpecificSheetTOOLEDB.dtsx</Name>
+      <LastWriteTime>2021-04-25T11:13:08.4798187Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid168 LaodAccordingTOdsheetName.dtsx</Name>
+      <LastWriteTime>2021-04-25T11:13:04.3614265Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid169 ReadMathicngFIleNAmes.dtsx</Name>
+      <LastWriteTime>2021-04-25T17:59:52.2582822Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid170 ReadFromSeedExactRowNumberFromExcel.dtsx</Name>
+      <LastWriteTime>2021-04-25T12:14:13.1705699Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Package1.dtsx</Name>
+      <LastWriteTime>2021-04-25T17:59:54.8487441Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid172 LOadProcResultToExcel.dtsx</Name>
+      <LastWriteTime>2021-04-25T17:59:49.1069664Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid173 LoadAllTablesFormOLEDBToExcel.dtsx</Name>
+      <LastWriteTime>2021-04-25T18:16:11.4143037Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid174 ConvertCSVandTXTtoExcel.dtsx</Name>
+      <LastWriteTime>2021-04-25T18:26:30.6061677Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid175 LoadCsvTOExcelSheets.dtsx</Name>
+      <LastWriteTime>2021-04-25T19:02:20.9081797Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid176 LoadGrouppedRowsToMultipleSheep-ts.dtsx</Name>
+      <LastWriteTime>2021-04-25T19:16:23.2747419Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>vid177 SplitTableRowsTOSheets.dtsx</Name>
+      <LastWriteTime>2021-04-25T19:37:40.7079276Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid178 LoadFOreachTableTOExcelFile.dtsx</Name>
+      <LastWriteTime>2021-04-25T19:56:32.9967361Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid179 Loadcsv_and_archiveIt.dtsx</Name>
+      <LastWriteTime>2021-04-25T20:22:57.4003035Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid180 loadDataTOtablesWithMatchingColumnDAta.dtsx</Name>
+      <LastWriteTime>2021-04-26T04:52:45.3107442Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid182 CreateTblForEachFlat.dtsx</Name>
+      <LastWriteTime>2021-04-26T06:14:08.4042499Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid183 ReadCellValueToOleDb.dtsx</Name>
+      <LastWriteTime>2021-04-26T06:25:13.6049983Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid181 LoadCSV_TXTWithFileName.dtsx</Name>
+      <LastWriteTime>2021-04-26T06:57:49.9216893Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid185 ConvertShortMonthNameToNumeric.dtsx</Name>
+      <LastWriteTime>2021-04-26T14:37:45.9214952Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>vid186 CheckFileExists.dtsx</Name>
+      <LastWriteTime>2021-04-26T14:55:23.8142844Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid191 Find_replace_objectNameFroXML.dtsx</Name>
+      <LastWriteTime>2021-04-26T16:24:59.7811603Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>vid193 executableEquelProcsesor+2.dtsx</Name>
+      <LastWriteTime>2021-04-26T16:38:17.8740156Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Package2.dtsx</Name>
+      <LastWriteTime>2021-04-26T17:37:42.2182923Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
