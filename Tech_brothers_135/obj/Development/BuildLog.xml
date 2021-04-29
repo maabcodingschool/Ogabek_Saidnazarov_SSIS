@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>Tech_brothers_135</Name>
+    <LastWriteTime>2021-04-19T18:02:55.6753857Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>Vid135 ReadFolderNAmesWIthScript.dtsx</Name>
+      <LastWriteTime>2021-04-19T09:41:21.7652351Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid136 ReadWriteVariables.dtsx</Name>
+      <LastWriteTime>2021-04-19T09:46:17.567953Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid137 DeleteNrowsfromFlatFile.dtsx</Name>
+      <LastWriteTime>2021-04-19T10:06:14.3639546Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid138 ZipFileIntro.dtsx</Name>
+      <LastWriteTime>2021-04-19T10:43:23.2640885Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid139 LoadaMultipleFilesAndZip.dtsx</Name>
+      <LastWriteTime>2021-04-19T11:24:24.9225293Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid140 UnZipAndDeleteFiles.dtsx</Name>
+      <LastWriteTime>2021-04-19T12:18:20.4263632Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid141 LoadZipAndDelete.dtsx</Name>
+      <LastWriteTime>2021-04-19T14:08:58.5518619Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid143 AccordingNameOFFile.dtsx</Name>
+      <LastWriteTime>2021-04-19T16:35:31.3165402Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid144 FileNamesToOLEDBFromZip.dtsx</Name>
+      <LastWriteTime>2021-04-19T16:44:06.0221238Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid145 ZipMultipleFolders.dtsx</Name>
+      <LastWriteTime>2021-04-19T17:03:15.9183081Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Vid146.dtsx</Name>
+      <LastWriteTime>2021-04-19T17:51:49.6320053Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Package1.dtsx</Name>
+      <LastWriteTime>2021-04-19T19:09:57.943575Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
