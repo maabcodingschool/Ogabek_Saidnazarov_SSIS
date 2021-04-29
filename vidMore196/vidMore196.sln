@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "vidMore196", "vidMore196\vidMore196.dtproj", "{BD1CE5E0-7133-4539-933D-F4B7DF14DD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1CE5E0-7133-4539-933D-F4B7DF14DD40}.Development|Default.ActiveCfg = Development
+		{BD1CE5E0-7133-4539-933D-F4B7DF14DD40}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C10C97-4CC8-465A-AE5C-A7BE9B423883}
+	EndGlobalSection
+EndGlobal
